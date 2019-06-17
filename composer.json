@@ -14,7 +14,7 @@
         "docs": "https://byte.no",
         "issues": "https://byte.no"
     },
-    "license": "proprietary",
+    "license": "mit",
     "authors": [
         {
             "name": "Byte AS",
